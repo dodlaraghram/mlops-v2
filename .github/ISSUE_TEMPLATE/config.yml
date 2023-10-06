@@ -5,3 +5,4 @@ blank_issues_enabled: false
   - name: Azure ML Python SDK issues.
     url: https://github.com/azure/azure-sdk-for-python/issues/new/choose
     about: Please open issues with the Azure ML Python SDK here.
+    
